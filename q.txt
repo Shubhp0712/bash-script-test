@@ -1,0 +1,3 @@
+q1: write a script that processes a log file that is passed as command line.the script should remove all the lines containing word "debug" and replace all the occurence of the word "Error" with "Err" the cleaned log file should save as clean.log.
+
+q3:  
